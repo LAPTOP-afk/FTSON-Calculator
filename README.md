@@ -5,5 +5,7 @@
 您可以通过Github下载以使用FTSON-Calculator。具体方法：打开 https://github.com/LAPTOP-afk/FTSON-Calculator/ ，点击Code,再点击Download ZIP即可下载。
 # FTSON-Calculators上线说明
 FTSON-Calculator于2025年5月11日上线，且供个人和企业学习或工作中使用。
+# FTSON-Calculators支持语言
+FTSON-Calculators现支持中文和英文，zh=Chinese(中文)，en=Enlish（英文）。
 # FTSON-Calculators支持者名单
 暂无支持者，欢迎支持FTSON-Calculators👍👍
